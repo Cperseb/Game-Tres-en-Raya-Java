@@ -63,14 +63,19 @@ El código está organizado en tres clases principales:
 
 ---
 
-## ✍️ Contribuciones
+✍️ Contribuciones
 
-¡Las contribuciones son bienvenidas! Si deseas mejorar el juego, sigue estos pasos:
+¡Las contribuciones son bienvenidas! Si deseas mejorar el juego, revisa la Guía de Contribuciones y sigue estos pasos:
 
-1. **Haz un fork** del repositorio.
-2. **Crea una nueva rama** (`git checkout -b feature-nueva`).
-3. **Realiza tus cambios y haz commit** (`git commit -m "Añadida nueva característica"`).
-4. **Envía un pull request**.
+Haz un fork del repositorio.
+
+Crea una nueva rama (git checkout -b feature-nueva).
+
+Realiza tus cambios y haz commit (git commit -m "Añadida nueva característica").
+
+Envía un pull request.
+
+💡 Para más detalles, consulta CONTRIBUTING.md. 🚀
 
 ---
 
