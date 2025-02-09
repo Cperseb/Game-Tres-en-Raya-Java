@@ -56,20 +56,10 @@ El código está organizado en tres clases principales:
 
 ---
 
-## 💡 Optimización para Búsqueda y SEO
+## 🖼 Vista Previa del Juego
 
-Para mejorar la visibilidad de este proyecto en GitHub y motores de búsqueda:
+![Tablero del juego Tres en Raya](tablero_juego.png "Ejemplo de una partida en Tres en Raya")
 
-- **Palabras clave relevantes**: "Juego en Java", "Tres en Raya en consola", "Aprender programación en Java".
-- **Etiquetas recomendadas**: `java`, `tres-en-raya`, `tic-tac-toe`, `juego-en-consola`, `programación`.
-- **Metaetiqueta recomendada**:
-  ```html
-  <title>Tres en Raya - Juego en Java | Proyecto de Programación</title>
-  ```
-- **Optimización de imágenes**:
-  ```html
-  <img src="tablero_juego.png" alt="Ejemplo de tablero de Tres en Raya en consola">
-  ```
 
 ---
 
