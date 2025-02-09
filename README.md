@@ -85,7 +85,7 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo libremente, pero no 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 - **Email:** cperseb@gmail.com
 - **GitHub:** [Cperseb](https://github.com/Cperseb)
-- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn:** https://www.linkedin.com/in/carlos-pertierra/
 
 ---
 
