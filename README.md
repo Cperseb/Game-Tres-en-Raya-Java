@@ -76,10 +76,10 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo libremente, pero no 
 ## 👤 Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
-- **Email:** tu_email@example.com
+- **Email:** cperseb@gmail.com
 - **GitHub:** [TuPerfil](https://github.com/tu_usuario)
 - **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
 ---
 
-¡Espero que disfrutes del juego y aprendas más sobre Java! 📚🚀
+¡Espero que disfrutes del juego y te entretenga! 📚🚀
