@@ -11,7 +11,7 @@ Bienvenido al repositorio de **Tres en Raya**, un juego clásico implementado en
 
 ---
 
-## 🛠 Instalación
+## 🛠 Instalación y Uso
 
 Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
@@ -39,10 +39,10 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 ## 🎮 Cómo Jugar
 
-1. El tablero es una cuadrícula de 3x3.
+1. El **tablero** es una cuadrícula de **3x3**.
 2. Los jugadores se turnan para colocar su marca (**X** o **O**).
-3. Gana el primer jugador en alinear tres de sus marcas en fila, columna o diagonal.
-4. Si todas las casillas están llenas y nadie ha ganado, el juego termina en empate.
+3. **Gana** el primer jugador en alinear **tres** de sus marcas en fila, columna o diagonal.
+4. Si todas las casillas están llenas y nadie ha ganado, el juego termina en **empate**.
 
 ---
 
@@ -53,6 +53,23 @@ El código está organizado en tres clases principales:
 - **`Tablero.java`**: Maneja el estado del tablero y la lógica de verificación del ganador.
 - **`Juego.java`**: Controla el flujo del juego y la interacción con el usuario.
 - **`TresEnRaya.java`**: Es el punto de entrada de la aplicación.
+
+---
+
+## 💡 Optimización para Búsqueda y SEO
+
+Para mejorar la visibilidad de este proyecto en GitHub y motores de búsqueda:
+
+- **Palabras clave relevantes**: "Juego en Java", "Tres en Raya en consola", "Aprender programación en Java".
+- **Etiquetas recomendadas**: `java`, `tres-en-raya`, `tic-tac-toe`, `juego-en-consola`, `programación`.
+- **Metaetiqueta recomendada**:
+  ```html
+  <title>Tres en Raya - Juego en Java | Proyecto de Programación</title>
+  ```
+- **Optimización de imágenes**:
+  ```html
+  <img src="tablero_juego.png" alt="Ejemplo de tablero de Tres en Raya en consola">
+  ```
 
 ---
 
@@ -77,9 +94,10 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo libremente, pero no 
 
 Si tienes preguntas o sugerencias, no dudes en contactarme:
 - **Email:** cperseb@gmail.com
-- **GitHub:** https://github.com/Cperseb
+- **GitHub:** [Cperseb](https://github.com/Cperseb)
 - **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/tu-perfil)
 
 ---
 
 ¡Espero que disfrutes del juego y te entretenga! 📚🚀
+
