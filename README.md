@@ -89,5 +89,5 @@ Si tienes preguntas o sugerencias, no dudes en contactarme:
 
 ---
 
-¡Espero que disfrutes del juego y te entretenga! 📚🚀
+¡¡Espero que disfrutes del juego y te entretenga!! 📚🚀
 
