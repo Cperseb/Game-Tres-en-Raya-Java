@@ -80,14 +80,5 @@ Este proyecto está bajo la licencia **MIT**. Puedes usarlo libremente, pero no 
 
 ---
 
-## 👤 Contacto
-
-Si tienes preguntas o sugerencias, no dudes en contactarme:
-- **Email:** cperseb@gmail.com
-- **GitHub:** [Cperseb](https://github.com/Cperseb)
-- **LinkedIn:** https://www.linkedin.com/in/carlos-pertierra/
-
----
-
 ¡¡Espero que disfrutes del juego y te entretenga!! 📚🚀
 
